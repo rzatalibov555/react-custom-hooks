@@ -1,0 +1,15 @@
+.main{
+  width: 100%;
+  min-height: 70px;
+  background: red;
+  float: left;
+  position: fixed;
+  top:-70px;
+  transition: 1.5s;
+  
+}
+
+.demo{
+  top:0px;
+}
+
